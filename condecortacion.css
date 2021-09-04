@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing:border-box ;
+}
+body{
+ background-color: white; 
+ 
+font-size: 16px;
+
+    
+} 
+main{
+    
+   /* background-color:black;*/
+       width: 90%; 
+    max-width: 1000px;
+    
+}
+.caja_rara{ background-color: blue;
+width: 50% ;
+margin:2em ;
+max-height: 100px;}
+
+ .caja_rara p{
+    display:inline-block 
+    
+    
+} 
+
+.fecha{
+    text-align: center;
+    font-size: 16 px;
+    margin-bottom: 5px ;
+    padding: 0;
+    width: 100%; 
+    background-color: blueviolet;
+} 
+
+.reloj{
+    text-align: center;
+    font-size:30px ;
+    margin-bottom: 5px;
+    padding: 0;
+    width: 100%;
+
+} 
+.reloj-caja{
+    display:inline-block ; 
+    
+}
